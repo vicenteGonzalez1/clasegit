@@ -5,4 +5,5 @@ public interface Poligon {
 	double area();		
 	double peneee=1;
 	int aaa=0;
+	int uu=9;
 }
